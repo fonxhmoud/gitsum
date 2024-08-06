@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Expand Model method type hinting (#8279)
